@@ -1,63 +1,75 @@
 <!-- Profile Banner -->
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile!+%F0%9F%8C%9F)
+![Banner](https://via.placeholder.com/1200x300.png?text=Hello,+I'm+Joshua+Daniel+David+🚀)
 
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">A passionate [Your Role: Developer / Designer / Student / etc.]</h3>
+<h1 align="center">Hi 👋, I'm Joshua Daniel David</h1>
+<h3 align="center">Full-Stack Developer | AI & NLP Enthusiast | Cloud-based Solutions Builder</h3>
 
 ---
 
-## 🚀 About Me
-- 🌱 I’m currently learning **[Your Tech / Frameworks]**
-- 💼 Working on **[Your Projects / Job Role]**
-- 🎯 Goals: *Contribute more to open-source & build cool apps*
-- ⚡ Fun fact: *[Something quirky about you]*
+## 🧑‍💻 About Me
+🎓 **Magna Cum Laude** — BS Computer Science, Saint Louis University  
+💻 Full-stack developer specializing in **cross-platform apps & cloud systems**  
+☁️ Experienced in **React Native, Laravel, Supabase, Firebase**  
+🧠 Background in **AI/NLP** with published research & international presentations  
+📍 Based in **Baguio City, Philippines**  
+
+---
+
+## 🚀 Projects
+- **[D'Xplorer Travel & Tours App](#)** (React Native, Supabase, Tailwind)  
+  Mobile booking app with real-time updates + admin panel for user & booking management.
+
+- **[Blue Phoenix Reviewer](#)** (Android Studio/Java, Firebase)  
+  Bar exam prep app with practice questions, progress tracking, and push notifications.
+
+- **Ilocano Language Learning App** (Flask, Bootstrap, Seq2Seq NLP)  
+  Gamified learning with seq2seq translation model.
+
+- **Cloud-based RoBERTa SDG Assessment Tool**  
+  NLP-driven HEI document analysis, presented at **IEEE ISCI 2025** (Kuala Lumpur).  
 
 ---
 
 ## 🛠️ Tech Stack
+**Languages**  
+`Java` · `JavaScript` · `TypeScript` · `Python` · `PHP` · `Kotlin`  
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Frameworks & Libraries**  
+`React` · `React Native` · `Laravel` · `Flask` · `Bootstrap` · `Tailwind`  
 
-### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+**Databases**  
+`PostgreSQL` · `Firebase` · `Supabase` · `MySQL`  
 
-### 🌐 Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Tools**  
+`Git` · `Figma` · `Docker` · `Postman` · `VS Code`  
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Other**  
+`REST APIs` · `RLS Policies` · `NLP` · `Firebase Cloud Messaging`  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" alt="languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joshdavid0109&show_icons=true&theme=modern-lilac" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshdavid0109&layout=compact&theme=modern-lilac" height="160"/>
 </p>
 
 ---
 
-## 🔥 Streaks
+## 🏆 Certifications
+- AI - Natural Language Processing Capacity Program (National University, 2024)  
+- ICT Specialist in Computer Programming (DICT, 2025)  
+- 12th TOPCIT Philippines (IITP, 2025)  
+
+---
+
+## 🌐 Connect with Me
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight" alt="streaks" />
+  <a href="mailto:joshdan.david@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/joshdavid0109"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joshua-daniel-david/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-## 🌐 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR-HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
----
-
-✨ *Thanks for visiting my profile! Have a great day!* ✨
+✨ *Thanks for visiting my profile — let’s build something amazing together!* ✨
