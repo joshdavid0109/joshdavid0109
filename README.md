@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://via.placeholder.com/1200x300.png?text=Hello,+I'm+Joshua+Daniel+David+🚀)
+![Banner](./assets/banner.png)
 
 <h1 align="center">Hi 👋, I'm Joshua Daniel David</h1>
 <h3 align="center">Full-Stack Developer | AI & NLP Enthusiast | Cloud-based Solutions Builder</h3>
