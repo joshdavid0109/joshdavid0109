@@ -58,7 +58,8 @@
 ## 🏆 Certifications
 - AI - Natural Language Processing Capacity Program (National University, 2024)  
 - ICT Specialist in Computer Programming (DICT, 2025)  
-- 12th TOPCIT Philippines (IITP, 2025)  
+- 12th TOPCIT Philippines (IITP, 2025)
+- Electronic Data Processing Eligibility (CSE) (CSC, 2025) 
 
 ---
 
