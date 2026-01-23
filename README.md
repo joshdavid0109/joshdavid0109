@@ -8,14 +8,14 @@
 ## 🧑‍💻 About Me
 🎓 **Magna Cum Laude** — BS Computer Science, Saint Louis University  
 💻 Full-stack developer specializing in **cross-platform apps & cloud systems**  
-☁️ Experienced in **React Native, Laravel, Supabase, Firebase**  
+☁️ Experienced in ** React, React Native, Laravel, Supabase, Firebase**  
 🧠 Background in **AI/NLP** with published research & international presentations  
 📍 Based in **Baguio City, Philippines**  
 
 ---
 
 ## 🚀 Projects
-- **[D'Xplorer Travel & Tours App](#)** (React Native, Supabase, Tailwind)  
+- **[D'Xplorer Travel & Tours Web & App](#)** (React, React Native, Supabase, Tailwind)  
   Mobile booking app with real-time updates + admin panel for user & booking management.
 
 - **[Blue Phoenix Reviewer](#)** (Android Studio/Java, Firebase)  
