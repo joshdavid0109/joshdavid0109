@@ -99,8 +99,8 @@ https://joshua-daniel-david.vercel.app
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshdavid0109&show_icons=true&theme=modern-lilac" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshdavid0109&layout=compact&theme=modern-lilac" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joshdavid0109&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshdavid0109&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
